@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS swattr_db;
+
+CREATE DATABASE swattr_db;

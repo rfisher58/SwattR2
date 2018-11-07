@@ -1,0 +1,96 @@
+
+
+.page {
+    margin-left: none;
+    margin-right: none;
+    padding-left: none;
+    padding-right: none;
+}
+
+.navbaritem{
+    text-decoration: none;
+    color: white;
+}
+
+/* .navbar-brand {
+    font-size: 56px;
+    box-shadow: 3px 3px 3px green;
+    padding: 2px;
+    margin: 5px;
+} */
+
+#home {
+    margin-left: none;
+    padding-left: 50px;
+    padding-bottom: none;
+    padding-right: 25px;
+}
+
+/* rgb(81, 201, 81); */
+
+
+.bugs {
+   width: 20%;
+   height: 20%;
+   border-color: rgb(202, 194, 194);
+}
+
+.card {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.card-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn-primary {
+    width: 100px;
+    display: inline-block;
+    background-color: rgb(68, 197, 68);
+    border-color: white;
+    margin-left: 1px;
+}
+
+.btn-primary:hover {
+    background-color: white;
+    color: rgb(68, 197, 68);
+    border-color:  rgb(68, 197, 68);
+}
+
+
+.navbar{
+    height: 150px;
+}
+
+.page {
+    margin-left: none;
+    margin-right: none;
+    padding-left: none;
+    padding-right: none;
+}
+
+
+
+#home {
+    margin-left: none;
+    padding-left: 50px;
+    padding-bottom: none;
+    padding-right: 25px;
+}
+
+/* rgb(81, 201, 81); */
+
+.nav-link {
+    font-size: 50px;
+
+}
+
+#swattr {
+    font-size: 50px;
+}
+
